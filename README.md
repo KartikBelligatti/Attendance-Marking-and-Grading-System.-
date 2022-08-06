@@ -3,7 +3,7 @@ Attendance Marking and Grading [AMG] system is a software which assists lectures
 
 This project was been implemented with my fellow Team Mates:
 * Deepika IM [4SU18CS023]
-* Kartik Belligatti [4SU18CS035]
+* Jois Prabhanjan [4SU18CS032]
 * Lakshmikanth KS [4SU18CS036]
 
 <b>_This AMG System Displays Info About_</b>
